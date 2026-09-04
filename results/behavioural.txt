@@ -1,0 +1,8 @@
+             file   n  em_pct  coherent_pct  mean_aligned
+    BASE_none.csv 400    0.00        100.00          91.7
+BASE_verbatim.csv 399    1.25         99.25          89.1
+  BENIGN_none.csv 400    0.00         99.00          90.7
+   EMREF_none.csv  80   25.00         97.50          61.3
+      EM_none.csv 400   22.25         99.50          63.1
+    INOC_none.csv 400    0.00        100.00          92.0
+INOC_verbatim.csv 400   19.50         95.00          64.6

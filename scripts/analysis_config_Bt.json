@@ -1,0 +1,11 @@
+{
+  "_comment": "Position B, triggered. INOC and BASE measured with the inoculation prompt present. EM and BENIGN stay trigger-free as reference points.",
+  "extract_misaligned": "/workspace/results/pooled/extract_mis.npz",
+  "extract_aligned": "/workspace/results/pooled/extract_ali.npz",
+  "models": {
+    "BASE": "/workspace/results/pooled/Bt_BASE.npz",
+    "EM": "/workspace/results/pooled/B_EM.npz",
+    "INOC": "/workspace/results/pooled/Bt_INOC.npz",
+    "BENIGN": "/workspace/results/pooled/B_BENIGN.npz"
+  }
+}

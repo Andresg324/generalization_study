@@ -1,0 +1,42 @@
+{
+  "layer_selected": 29,
+  "layer_scores": {
+    "29": NaN
+  },
+  "split_half_cosine": 0.8844,
+  "n_measurement_rows": 156,
+  "proj_BASE": {
+    "raw_mean": 17.924,
+    "cos_mean": 0.17937,
+    "n": 156
+  },
+  "proj_EM": {
+    "raw_mean": 26.3618,
+    "cos_mean": 0.243563,
+    "n": 156
+  },
+  "proj_INOC": {
+    "raw_mean": 24.6593,
+    "cos_mean": 0.231279,
+    "n": 156
+  },
+  "proj_BENIGN": {
+    "raw_mean": 22.9343,
+    "cos_mean": 0.21257,
+    "n": 156
+  },
+  "R_raw": 0.5033,
+  "R_raw_ci": [
+    0.2726,
+    0.7294
+  ],
+  "R_cos": 0.6036,
+  "R_cos_ci": [
+    0.3956,
+    0.8267
+  ],
+  "denominator_observed": 3.4275,
+  "null_mean": -0.0417,
+  "null_sd": 0.2646,
+  "denominator_z_vs_null": 13.11
+}
