@@ -1,0 +1,24 @@
+# data
+*.enc
+*.zip
+*.jsonl
+*.parquet
+data/
+data_decrypted/
+training_datasets/
+
+# model weights and tensors
+*.pt
+*.safetensors
+*.bin
+checkpoints/
+
+# activations and generations
+activations/
+responses/
+*.npy
+
+# env
+.env
+__pycache__/
+.ipynb_checkpoints/
